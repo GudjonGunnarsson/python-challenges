@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" This challenge is as follows:
+""" Reference: https://edabit.com/challenge/HTaZiWnsCGgehpgdr
+    This challenge is as follows:
     Travelling through Europe one needs to pay
     attention to how the license plate in the
     given country is displayed. When crossing the

@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-""" This challenge is as follows:i
+""" Reference: https://edabit.com/challenge/EcAKCvatiTzZx5Wov
+    This challenge is as follows:
     A resistor is a common electrical component found
     in every electronic circuit. Usually a resistor has
     a color-based code (as painted bands over it) to
